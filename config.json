@@ -1,0 +1,29 @@
+{
+  "ownerId": "574164424206843915",
+  "ownerTag": "Alexis_#0002",
+
+  "token": "OTIxNzYwNDc5NDM5OTA0Nzk5.Yb3mVw.SKAsgpYQFBF0x3jNgc7pWRfznMA",
+  "BotID": "921760479439904799",
+  "version": "0.0.1",
+  "NomBot": "B L U E  F O X E S",
+  "footer": "© 2021 - B L U E  F O X E S | Projet FOXES",
+
+  "Topgg": "Cle api pour https://top.gg",
+  "BOATS": "Cle api pour https://discord.boats",
+  "VoidBots": "Cle api pour https://voidbots.net",
+  "SpaceBotList": "Cle api pour https://space-bot-list.xyz",
+  "InfinityBotList": "Cle api pour https://infinitybotlist.com",
+  "TrackerGG": "Cle api pour https://tracker.gg",
+
+  "ANTI_INSULTE" : ["ta race","Chatte","pute","Ta mère la pute","Pénis","Porno", "Mia khalifa","putin", "fdp", "enculer", "fils de pute", "salope", "ntm", "nique ta mere", "connard", "batard", "sale noir", "baise ta mere", "mange tes morts", "ta gueule", "bâtard", "nique ta mère"],
+
+  "NomServeur": "B L U E  F O X E S",
+  "Support": "https://discord.gg/PNrwdbPCeD",
+  "bugReportChannelId": "861582709880913981",
+  "modlogChannelId": "ID DU SALON LOG",
+  "ticketChannelId": "922115776301924383",
+  "apiKeys": {
+    "catApi": "44d2e7c1-e82b-4fba-bec2-e6b07affb71f",
+    "googleApi": "AIzaSyCk09BwA1RxwuvEgKkTWqveGqyPfuCMqUI"
+  }
+}

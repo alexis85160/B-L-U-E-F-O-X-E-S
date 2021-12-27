@@ -1,0 +1,19 @@
+******************
+B L U E  F O X E S
+******************
+
+Fr:si quelqu'un d'autre que mois acces au fichier je vous pris de ne pas falsifier les information sauvegarder
+
+Gb:if someone other than months has access to the file, please do not falsify the information to save
+
+
+
+URL: https://discord.com/oauth2/authorize?client_id=921760479439904799&scope=bot&permissions=1099511627775
+
+ID: 921760479439904799
+
+TOKEN: OTIxNzYwNDc5NDM5OTA0Nzk5.Yb3mVw.SKAsgpYQFBF0x3jNgc7pWRfznMA
+
+
+
+by Alexis_
