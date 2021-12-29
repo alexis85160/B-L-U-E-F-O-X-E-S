@@ -1,0 +1,21 @@
+20/12/2021 18:25:05 - error [Alcatraz.js]: Cannot create property 'webPort' on boolean 'true'
+{
+  "stack": "TypeError: Cannot create property 'webPort' on boolean 'true'
+    at new infinity (E:\\bot-discorde\\BLUE-FOXES\
+ode_modules\\infinity-api\\src\\index.js:15:51)
+    at module.exports (E:\\bot-discorde\\BLUE-FOXES\\src\\events\\ready.js:100:15)
+    at Client.emit (events.js:327:22)
+    at WebSocketManager.triggerClientReady (E:\\bot-discorde\\BLUE-FOXES\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (E:\\bot-discorde\\BLUE-FOXES\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (E:\\bot-discorde\\BLUE-FOXES\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:197:14)
+    at WebSocketShard.emit (events.js:315:20)
+    at WebSocketShard.checkReady (E:\\bot-discorde\\BLUE-FOXES\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:475:12)
+    at WebSocketShard.onPacket (E:\\bot-discorde\\BLUE-FOXES\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:447:16)
+    at WebSocketShard.onMessage (E:\\bot-discorde\\BLUE-FOXES\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:301:10)"
+}
